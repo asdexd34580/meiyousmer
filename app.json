@@ -12,16 +12,16 @@
             "value": "43d80cbe-5e52-4e57-bf1b-ec95670bf563"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/moersok2022/komskeerrt/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/moersok2022/meiyousmer/blob/master/etc/CADDYIndexPage.md",
             "value": "https://github.com/fomserook/weiz/raw/main/3dcel.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/moersok2022/komskeerrt/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/moersok2022/meiyousmer/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/moersok2022/komskeerrt/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/moersok2022/meiyousmer/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/yeiwookbver/moersok2022/komskeerrt/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/yeiwookbver/moersok2022/meiyousmer/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/moersok2022/komskeerrt",
-    "repository": "https://github.com/moersok2022/komskeerrt",
+    "website": "https://github.com/moersok2022/meiyousmer",
+    "repository": "https://github.com/moersok2022/meiyousmer",
     "stack": "container"
 }
